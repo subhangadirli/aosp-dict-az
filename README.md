@@ -211,7 +211,11 @@ The pipeline auto-detects available sources. Download at least one working corpu
 
 ## License
 
-This project is provided as-is for building Azerbaijani keyboard dictionaries. The Leipzig Corpus data is covered by the Leipzig Corpora Collection license.
+This project is dual-licensed and incorporates third-party data:
+
+* **Source Code & Scripts:** Licensed under the [GNU Lesser General Public License v2.1 (LGPL-2.1)](LICENSE).
+* **Dictionary Data (`.dict`, `.combined`):** Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+* **Data Source Citation:** The underlying word frequency data is sourced from the **Leipzig Corpora Collection** and is subject to the terms of the Leipzig Corpora Collection license.
 
 ## References
 
